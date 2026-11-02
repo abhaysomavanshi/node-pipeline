@@ -1,0 +1,10 @@
+{
+  "name": "node-pipeline",
+  "version": "1.0.0",
+  "description": "Node.js Jenkins Pipeline Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
